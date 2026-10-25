@@ -41,5 +41,7 @@
   "configDataDirectory": "/workspaces/AIPPCClab/src/Packages.Main/Data",
   "configDataSchemaPath": "/workspaces/AIPPCClab/src/Packages.Main/Data/data_schema.xml",
   "configDataFilePath": "/workspaces/AIPPCClab/src/Packages.Main/Data/data.xml",
-  "testsUiScaffolded": true
+  "testsUiScaffolded": true,
+  "pluginsTestsScaffolded": true,
+  "scriptsTestsScaffolded": true
 }

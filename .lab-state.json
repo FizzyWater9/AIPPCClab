@@ -37,5 +37,8 @@
   "openFoodFactsConnectionId": "1094c2c2-a6d9-412f-abe5-6b4f89101899",
   "productDataSourceScaffolded": true,
   "connectorDataSourceScaffolded": true,
-  "barcodeScanUiScaffolded": true
+  "barcodeScanUiScaffolded": true,
+  "configDataDirectory": "/workspaces/AIPPCClab/src/Packages.Main/Data",
+  "configDataSchemaPath": "/workspaces/AIPPCClab/src/Packages.Main/Data/data_schema.xml",
+  "configDataFilePath": "/workspaces/AIPPCClab/src/Packages.Main/Data/data.xml"
 }

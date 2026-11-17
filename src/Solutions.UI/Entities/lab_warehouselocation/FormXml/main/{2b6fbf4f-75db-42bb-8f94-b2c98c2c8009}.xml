@@ -60,6 +60,14 @@
                       </cell>
                     </row>
                     <row>
+                      <cell id="{5D789E47-6FA4-40CD-9230-DA36265F4557}" labelid="{69FA6284-6154-42A2-A1EE-7D1C60C3CD33}">
+                        <labels>
+                          <label description="Number Of Employees" languagecode="1033" />
+                        </labels>
+                        <control id="lab_numberofemployees" classid="{C3EFE0C3-0EC6-42be-8349-CBD9079DFD8E}" datafieldname="lab_numberofemployees" disabled="false" />
+                      </cell>
+                    </row>
+                    <row>
                       <cell locklevel="0" id="{8ED1EA4C-3639-41FC-AB8F-B6E51D5C3D39}" rowspan="4" colspan="1" auto="false" showlabel="false">
                         <labels>
                           <label description="Warehouse Items" languagecode="1033" />
